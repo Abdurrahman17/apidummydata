@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"namafilm":"Don't Bother to Knock","genre":"Drama|Thriller","tahun":1985},
+{"id":2,"namafilm":"Sensation of Sight, The","genre":"Drama","tahun":1995},
+{"id":3,"namafilm":"Impudent Girl (L'effrontée)","genre":"Comedy|Drama|Romance","tahun":2007},
+{"id":4,"namafilm":"Mega Shark vs. Giant Octopus","genre":"Action|Horror","tahun":2011},
+{"id":5,"namafilm":"Chori Chori Chupke Chupke","genre":"Drama|Romance","tahun":2009},
+{"id":6,"namafilm":"Aftershock","genre":"Horror|Thriller","tahun":1996},
+{"id":7,"namafilm":"Mutual Appreciation","genre":"Comedy|Drama","tahun":1998},
+{"id":8,"namafilm":"Senotaji","genre":"Comedy","tahun":1995},
+{"id":9,"namafilm":"Unidentified Flying Oddball (a.k.a. Spaceman and King Arthur, The) (a.k.a. Spaceman in King Arthur's Court, A)","genre":"Adventure|Comedy|Fantasy|Sci-Fi","tahun":1988},
+{"id":10,"namafilm":"Dare","genre":"Drama","tahun":2004},
+{"id":11,"namafilm":"Get a Horse!","genre":"Animation|Children|Comedy","tahun":2003},
+{"id":12,"namafilm":"Life's a Breeze","genre":"Comedy|Drama","tahun":2000},
+{"id":13,"namafilm":"Tortoise and the Hare, The","genre":"Animation|Children|Comedy","tahun":2007},
+{"id":14,"namafilm":"After Dark, My Sweet","genre":"Crime|Drama|Mystery","tahun":1994},
+{"id":15,"namafilm":"Anchors Aweigh","genre":"Comedy|Musical","tahun":1993},
+{"id":16,"namafilm":"Love, etc.","genre":"Drama","tahun":2001},
+{"id":17,"namafilm":"Trader Horn","genre":"Adventure|Romance","tahun":1995},
+{"id":18,"namafilm":"Nativity Story, The","genre":"Drama","tahun":1999},
+{"id":19,"namafilm":"Under the Skin","genre":"Drama","tahun":1992},
+{"id":20,"namafilm":"Man Who Left His Will on Film, The (Tôkyô sensô sengo hiwa)","genre":"Drama","tahun":1993}
+]
+}
